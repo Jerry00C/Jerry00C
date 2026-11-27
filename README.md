@@ -1,3 +1,8 @@
+<p align="right">
+<a href="https://github.com/Jerry00C"><img src="assets/lang-en-active.svg" width="132" height="40" alt="English"></a>
+<a href="https://github.com/Jerry00C/Jerry00C/blob/main/README.zh-CN.md"><img src="assets/lang-zh-inactive.svg" width="132" height="40" alt="中文"></a>
+</p>
+
 > **Open to internships and full-time roles from March 2027**  
 > AI Research · AI Engineering · [Let’s connect](mailto:jiangshan1030@gmail.com)
 
