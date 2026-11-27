@@ -1,23 +1,48 @@
 > **Open to internships and full-time roles from March 2027**  
 > AI Research · AI Engineering · [Let’s connect](mailto:jiangshan1030@gmail.com)
 
+<img src="assets/jerry-cui-banner.svg" width="100%" alt="Jerry Cui — AI research and engineering. Research depth, systems thinking, and product craft. University of Toronto Computer Engineering with AI minor; NUS MTech Artificial Intelligence.">
+
 # Jerry Cui · 崔江山
-### Intelligence, engineered.
 
-I turn machine learning research into systems people can use—from knowledge-grounded reasoning and AI agents to robust visual recognition and mobile applications.
+**I connect research questions, operational problems, and the engineering needed to make AI useful.**
 
-**National University of Singapore** · MTech, Artificial Intelligence  
-**University of Toronto** · Computer Engineering · Artificial Intelligence Engineering minor
+My experience spans clinical NLP, manufacturing analytics, knowledge-graph reasoning, visual recognition, and application development. I’ve also led a five-person engineering team—bringing both model-level curiosity and experience building the surrounding system.
 
 [LinkedIn](https://www.linkedin.com/in/jiangshancui/) · [Email](mailto:jiangshan1030@gmail.com)
 
-<table>
-<tr>
-<td width="33%" align="center"><h3><a href="#ai-agents">⌘ AI agents</a></h3><p>Plan. Use tools. Act.</p></td>
-<td width="34%" align="center"><h3><a href="#knowledge-graphs">◇ Knowledge graphs</a></h3><p>Connect. Retrieve. Reason.</p></td>
-<td width="33%" align="center"><h3><a href="#computer-vision">◎ Computer vision</a></h3><p>Represent. Detect. Evaluate.</p></td>
-</tr>
-</table>
+## Explore my work
+
+<table><tr>
+<td width="33%"><a href="#ai-agents"><img src="assets/agents.svg" width="100%" alt="AI agents — Intent to action. Explore agent projects."></a></td>
+<td width="34%"><a href="#knowledge-graphs"><img src="assets/knowledge.svg" width="100%" alt="Knowledge graphs — Answers with evidence. Explore graph and retrieval projects."></a></td>
+<td width="33%"><a href="#computer-vision"><img src="assets/vision.svg" width="100%" alt="Computer vision — Perception under scrutiny. Explore visual recognition research."></a></td>
+</tr></table>
+
+## What I bring to a team
+
+| Strength | How I put it into practice | Evidence |
+| :--- | :--- | :--- |
+| **Research translated into implementations** | Model adaptation, controlled experiments, and evaluation of failure modes | [GLowCLIP](https://github.com/Jerry00C/GLowCLIP), [VIDA](https://github.com/Jerry00C/Vida), clinical NLP research |
+| **AI grounded in domain problems** | Connect language models to manufacturing data, ERP documents, and structured knowledge | [OEE Agent](https://github.com/Jerry00C/oee-analysis-ai-agent), [Plex RAG](https://github.com/Jerry00C/plex-rag), [YAGO](https://github.com/Jerry00C/yago-sparql-demo) |
+| **Engineering beyond the model** | Build APIs, validation, orchestration, interfaces, and human review into an end-to-end workflow | [Chemistry Video Generator](https://github.com/Jerry00C/EduVideoGenerator), [AI Calendar](https://github.com/Jerry00C/ai-calendar) |
+| **Technical leadership and collaboration** | Led five engineers at Utechia; contributed to collaborative agent systems | SaaS platform and cloud infrastructure; [real-estate assistant](https://github.com/zhexusun10/Multi-Agent-Assistance-System) |
+
+<img src="assets/experience-map.svg" width="100%" alt="Experience across clinical NLP, manufacturing analytics, graph and vision research, and product engineering. Shared approach: understand, design, build, evaluate.">
+
+<details>
+<summary><b>Technical toolkit — connected to actual work</b></summary>
+
+| Area | Tools and methods |
+| :--- | :--- |
+| Machine learning & vision | Python, PyTorch, CLIP, DINO, LoRA, CNNs, BERT, active learning |
+| Agents & retrieval | LangChain, structured outputs, Pydantic, tool calling, SPARQL, Neo4j, Pinecone |
+| Applications | FastAPI, TypeScript, Node.js, React Native, SwiftUI, Java / Android |
+| Infrastructure & data | AWS, Docker, Kubernetes, Kafka, SQL, MongoDB, ClickHouse |
+
+These reflect tools used across my projects and professional experience; the project links show where they apply.
+
+</details>
 
 <a id="ai-agents"></a>
 ## AI agents
