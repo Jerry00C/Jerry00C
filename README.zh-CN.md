@@ -7,7 +7,7 @@
 知识图谱 · 计算机视觉 · AI 智能体  
 新加坡国立大学 MTech（人工智能）· 两年加拿大工作经验 · **寻求 2027 年 3 月起的 AI 实习或全职机会**
 
-[领英](https://www.linkedin.com/in/jiangshancui/) · [邮件](mailto:jiangshan1030@gmail.com)
+[个人网站](https://jerry00c.github.io/) · [领英](https://www.linkedin.com/in/jiangshancui/) · [邮件](mailto:jiangshan1030@gmail.com)
 
 ```text
 > 任务：招一位 AI 工程师
