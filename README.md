@@ -7,7 +7,7 @@
 Knowledge graphs · Computer vision · AI agents
 NUS MTech (AI) · 2 years of professional experience in Canada · **Open to AI roles from March 2027**
 
-[LinkedIn](https://www.linkedin.com/in/jiangshancui/) · [Email](mailto:jiangshan1030@gmail.com)
+[Website](https://jerry00c.github.io/) · [LinkedIn](https://www.linkedin.com/in/jiangshancui/) · [Email](mailto:jiangshan1030@gmail.com)
 
 ```text
 > task: hire an AI engineer
